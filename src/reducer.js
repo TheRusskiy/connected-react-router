@@ -32,7 +32,7 @@ const createConnectRouter = (structure) => {
       // Extract router state
       if (state) {
         routerState = getIn(state, 'router') || routerState
-        state = filterNotRouter(state)
+        // state = filterNotRouter(state)
       }
       const reducerResults = rootReducer(state, action)
 
