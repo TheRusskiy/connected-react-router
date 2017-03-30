@@ -1,6 +1,6 @@
 {
-  "name": "connected-react-router",
-  "version": "4.0.0",
+  "name": "connected-react-router-fork",
+  "version": "4.0.1",
   "description": "A Redux binding for React Router v4",
   "main": "lib/index.js",
   "author": "Supasate Choochaisri",
@@ -61,9 +61,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/supasate/connected-react-router.git"
+    "url": "https://github.com/TheRusskiy/connected-react-router.git"
   },
   "bugs": {
-    "url": "https://github.com/supasate/connected-react-router/issues"
+    "url": "https://github.com/TheRusskiy/connected-react-router/issues"
   }
 }
